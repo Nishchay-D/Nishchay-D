@@ -8,7 +8,7 @@
 
 ---
 
-# `$ whoami`
+# `> whoami`
 
 ```text
 ╔══════════════════════════════════════════════════════╗
@@ -125,9 +125,9 @@ Built an FPGA-assisted sensor fusion pipeline integrating camera and LiDAR data 
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nishchay-D&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishchay-D&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -135,7 +135,7 @@ Built an FPGA-assisted sensor fusion pipeline integrating camera and LiDAR data 
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Nishchay-D&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -206,4 +206,3 @@ $ cat interests.txt
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 
-````
