@@ -123,14 +123,6 @@ Built an FPGA-assisted sensor fusion pipeline integrating camera and LiDAR data 
 
 # GitHub Statistics
 
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nishchay-D&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishchay-D&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 <p align="center">
@@ -180,11 +172,11 @@ $ cat interests.txt
 <p align="center">
 
 <a href="https://linkedin.com/in/nishchay-d">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
 </a>
 
 <a href="mailto:nishchayd24@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge"/>
 </a>
 
 </p>
