@@ -77,29 +77,10 @@ Built an FPGA-assisted sensor fusion pipeline integrating camera and LiDAR data 
 
 # Functional Units
 
-### RTL Design
-
-```
-█████████████████████████████ 100%
-```
-
-### FPGA Design
-
-```
-██████████████████████████░░ 90%
-```
-
-### Verification
-
-```
-███████████████████████░░░░░ 80%
-```
-
-### Digital Logic
-
-```
-███████████████████████████░ 95%
-```
+- **RTL Design** ▰▰▰▰▰▰▰▰▰▰ 100%
+- **FPGA Design** ▰▰▰▰▰▰▰▰▰▱ 90%
+- **Verification** ▰▰▰▰▰▰▰▰▱▱ 80%
+- **Digital Logic** ▰▰▰▰▰▰▰▰▰◧ 95%
 
 ---
 
