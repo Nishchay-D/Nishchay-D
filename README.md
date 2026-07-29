@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=NISHCHAY&fontColor=00F5FF&fontSize=55&fontAlignY=38&desc=RTL%20Designer%20•%20FPGA%20Engineer%20•%20Future%20ASIC%20Engineer&descAlignY=58"/>
