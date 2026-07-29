@@ -104,28 +104,6 @@ Built an FPGA-assisted sensor fusion pipeline integrating camera and LiDAR data 
 
 ---
 
-# GitHub Statistics
-
----
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishchay-D&theme=tokyo-night"/>
-
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Nishchay-D/Nishchay-D/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
 # Terminal
 
 ```bash
