@@ -110,14 +110,6 @@ Built an FPGA-assisted sensor fusion pipeline integrating camera and LiDAR data 
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nishchay-D&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishchay-D&theme=tokyo-night"/>
 
 </p>
